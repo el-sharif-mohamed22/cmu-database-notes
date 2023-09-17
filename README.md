@@ -4,5 +4,10 @@
 
 --- 
 # 🗂️ Index
-- [Lecture 1](/Lecture-1/Relational%20Model%20&%20Algebra.md)
+1. [Lecture 1](/Lecture-1/)
+    - [Relational Model](/Lecture-1/Relational%20Model.md)
+    - [Relational Algebra](/Lecture-1/Relational%20Algebra.md)
+
+
+
 

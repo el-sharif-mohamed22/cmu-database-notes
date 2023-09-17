@@ -16,7 +16,7 @@
 - It has a low *Efficiency* as the file needs to parse the whole file for storing a particular record.
 - *Data Integrity* as you could reference non-existent record for an attribute or parameter in your database, for example "Referencing a non-existent artist in the album file" 
     - We have no rule controlling our data how should it look like every time adding a record to the database.
-- Hard to add a new field, as we will need to change the whole file [Schema](#What is Schema ?)
+- Hard to add a new field, as we will need to change the whole file [Schema](#what-is-schema-)
 
 - *Concurrency* We have no controll over multithreading on our simple database, if 2 threads try to update the same record, we could have data corruptions and inconsistent readings.
 
